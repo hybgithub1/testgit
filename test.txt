@@ -4,3 +4,4 @@ i am linghu
 i am zhang
 test fork
 test from zhang
+test for push
